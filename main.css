@@ -9,3 +9,9 @@ h1 {
   color: red;
   padding: 10px;
 }
+
+h2 {
+    text-align: right;
+  color: blue;
+  font-size: 30px;
+}
